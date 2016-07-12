@@ -19,6 +19,7 @@ namespace OpenTabReminder.Views
        }
        public Button GenerateOpenTabButton()
        {
+            //This is a button i made weee
            return new Button
            {
                Text = "Open Tab",
