@@ -12,6 +12,7 @@ namespace OpenTabReminder
         public App()
         {
             //this is something also
+            //heyy
             ContentPage mike = new LandingPage();
             MainPage = mike;
         }
