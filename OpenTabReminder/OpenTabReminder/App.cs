@@ -14,6 +14,7 @@ namespace OpenTabReminder
             //this is something also
             //heyy
             //Stupid thing mike did
+            //wait lets try again
             ContentPage mike = new LandingPage();
             MainPage = mike;
         }
