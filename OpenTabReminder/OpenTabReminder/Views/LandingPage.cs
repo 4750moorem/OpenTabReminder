@@ -35,6 +35,7 @@ namespace OpenTabReminder.Views
         }
         private User getCurrentUser()
         {
+            //jh
             //logic to get sometype of user information from native phone
             return new User();
         }
