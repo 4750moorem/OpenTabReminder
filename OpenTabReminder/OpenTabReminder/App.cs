@@ -12,9 +12,6 @@ namespace OpenTabReminder
         public App()
         {
             //this is something also
-            //heyy  n
-            //Stupid thing mike did
-            //wait lets try again
             ContentPage mike = new LandingPage();
             MainPage = mike;
         }
