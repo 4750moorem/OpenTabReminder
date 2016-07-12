@@ -13,6 +13,7 @@ namespace OpenTabReminder
         {
             //this is something also
             //heyy
+            //Stupid thing mike did
             ContentPage mike = new LandingPage();
             MainPage = mike;
         }
